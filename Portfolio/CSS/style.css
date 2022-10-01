@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+.container {
+    background-color: #F0FFF0;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+.foto {
+    max-width: 300;
+    max-height: 300px;
+}
+.volik {
+    max-width: 300px;
+    max-height: 300px;
+}
+footer p {
+    padding-left: 950px;
+}
+
+.Pixel-game {
+    max-width: 300px;
+    max-height: 300px;
+}
+
